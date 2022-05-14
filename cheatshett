@@ -1,0 +1,13 @@
+[a]||[aa]: style tag
+[aaa] : color tag
+[] : reset
+[pepe] : emote (human section)
+[background] : control code (system section)
+[monkyyy.science] : reasource
+
+[[] : [ litteral
+[]] : ] litteral
+
+][ :anounous block seperator
+]$meta[ : system block
+]body[ : human block
